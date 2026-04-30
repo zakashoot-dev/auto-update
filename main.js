@@ -1542,7 +1542,7 @@ if (ctx.from.id != ownerID && !isPremGroup(ctx.chat.id)) {
   const menuMessage = `
 <blockquote><pre>⬡═—⊱ 𝐍𝐞𝐱𝐨𝐫𝐚 𝐕𝐞𝐫𝐬𝐞 ⊰—═⬡</pre></blockquote>
 ⛧ 𝗢𝘄𝗻𝗲𝗿 : @sunnnlyy<tg-emoji emoji-id="5778220576497735613">🌟</tg-emoji>
-⛧ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : 1.0 complete
+⛧ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 : 1.0 completed
 ⛧ 𝗣𝗿𝗲𝗳𝗶𝘅 : /
 ⛧ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 : JavaScript
 ⛧ 𝗧𝘆𝗽𝗲 𝗦𝗰𝗿𝗶𝗽𝘁 : Bebas Spam Bug
